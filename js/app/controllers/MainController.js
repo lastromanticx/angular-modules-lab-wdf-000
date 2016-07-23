@@ -4,4 +4,4 @@ function MainController($scope){
 
 angular
   .module('app')
-  .controller('Maincontroller',MainController);
+  .controller('MainController',MainController);
